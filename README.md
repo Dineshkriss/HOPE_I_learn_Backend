@@ -1,2 +1,2 @@
 # HOPE_I_learn_Backend
-In this I will be having my projects which I did for learning backend.
+In this repository, you'll find the digital equivalent of my attempts to tame the wild beast known as backend development
