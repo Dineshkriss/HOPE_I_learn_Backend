@@ -1,0 +1,15 @@
+#To-DO
+So this is the first project to commit under the "HOPE_I_learn_Backend" Repo,
+As the Name suggest I really hope that I learn backend step by step as I finish my projects.
+
+Now lets talk about the project:
+
+First things first I know that the UI is boring as F(is it okay to include swear words in Git,will i  get banned?I dont know) 
+but who cares, I did this project to get proficient in REACT 
+
+In this To-Do I have done a simple to do list which gets added as you type the name of the task and click add task button, 
+should be very obvious and as an additional i have also included the Habit Tracker app which creates the habit with the
+name you give and it also checks whether you have done every day of the week if you have done you can check the checkbox
+and it saves the changes in its values in the local storage
+
+I guess this should be enough for the abstract, If anyone have any improvs on my project do let me know.
